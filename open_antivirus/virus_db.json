@@ -1,0 +1,26 @@
+{
+  "last_updated": "2026-05-02T09:02:21.349548",
+  "signatures": [
+    {
+      "name": "EICAR-Test-File",
+      "signature": "44d88612fea8a8f36de82e1278abb02f",
+      "threat_level": "低",
+      "description": "EICAR 测试文件（无害测试用）",
+      "category": "测试"
+    },
+    {
+      "name": "Generic.Trojan",
+      "signature": "example_malware_hash_1",
+      "threat_level": "高",
+      "description": "通用木马程序",
+      "category": "木马"
+    },
+    {
+      "name": "Ransomware.Generic",
+      "signature": "example_ransomware_hash",
+      "threat_level": "严重",
+      "description": "勒索软件",
+      "category": "勒索软件"
+    }
+  ]
+}
